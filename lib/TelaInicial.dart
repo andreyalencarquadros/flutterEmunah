@@ -37,7 +37,7 @@ class _TelaInicialState extends State<TelaInicial> {
                   onTap: () {
                         Navigator.push(context, MaterialPageRoute(builder: (context) => TelaEmpresa()));
                   },),
-                  GestureDetector(child: Image.asset("imagens/Produtos.png", width: 160,),
+                  GestureDetector(child: Image.asset("imagens/Produtos.png", width: 165,),
                   onTap: () {
                     Navigator.push(context, MaterialPageRoute(builder: (context) => TelaProdutos()));
                   },)
