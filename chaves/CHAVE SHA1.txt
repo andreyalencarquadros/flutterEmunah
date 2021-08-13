@@ -1,0 +1,8 @@
+Variant: release
+Config: debug
+Store: C:\Users\andre\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 01:70:33:A7:55:E2:9F:03:32:A1:47:70:22:B1:8A:E2
+SHA1: BE:DD:EF:A0:DF:E5:89:A8:88:C3:2D:04:06:DD:74:D1:29:F3:A3:85
+SHA-256: C5:CE:95:D0:10:B5:A1:4A:E6:48:7C:1C:37:D6:F7:3A:40:FA:A8:DA:2B:26:03:87:89:BD:43:9F:F0:91:45:C9
+Valid until: Quinta-feira, 23 de Fevereiro de 2051
