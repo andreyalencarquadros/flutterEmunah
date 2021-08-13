@@ -1,6 +1,7 @@
 # emunah_app
 
 Aplicação para a empresa Emunah
+Essa versão foi realizada o versionamento 1.0
 
 ## Getting Started
 
